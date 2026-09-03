@@ -36,3 +36,34 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+/* Borderless table variant, e.g. for News lists: {: .news-table} */
+.news-table {
+  border: none;
+  font-size: $type-size-5;
+
+  /* header is kept for accessibility but hidden visually */
+  thead {
+    position: absolute;
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    border: 0;
+  }
+
+  th,
+  td {
+    padding: 0.35em 0;
+    background-color: transparent;
+    border: none;
+  }
+
+  th:first-child,
+  td:first-child {
+    padding-right: 1.5em;
+    font-weight: bold;
+    white-space: nowrap;
+    vertical-align: top;
+  }
+}
