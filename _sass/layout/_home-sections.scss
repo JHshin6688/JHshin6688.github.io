@@ -1,0 +1,100 @@
+/* ==========================================================================
+   HOME PAGE SECTIONS (Experience / Projects / Publications)
+   ========================================================================== */
+
+#experience,
+#projects,
+#publications {
+  scroll-margin-top: calc(#{$masthead-height} + 1em);
+}
+
+.home-entry {
+  margin-bottom: 1.5em;
+
+  &__title {
+    margin-bottom: 0.25em;
+  }
+
+  &__body {
+    margin: 0;
+  }
+}
+
+.publications {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+}
+
+.publication {
+  display: flex;
+  gap: 1em;
+  align-items: flex-start;
+
+  &__thumb {
+    flex: 0 0 auto;
+
+    img {
+      display: block;
+      width: auto;
+      height: auto;
+      max-width: 300px;
+      max-height: 200px;
+      object-fit: contain;
+      border-radius: $border-radius;
+      border: 1px solid var(--global-border-color);
+    }
+  }
+
+  &__body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  &__title {
+    margin: 0 0 0.35em;
+    font-weight: bold;
+  }
+
+  &__authors {
+    margin: 0 0 0.35em;
+  }
+
+  &__venue {
+    margin: 0 0 0.35em;
+  }
+
+  &__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35em;
+    font-size: $type-size-5;
+
+    a {
+      text-decoration: underline;
+    }
+  }
+
+  &__link--todo {
+    color: var(--global-text-color-light);
+    font-style: italic;
+  }
+
+  &__bibtex-toggle {
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+  }
+
+  &__bibtex {
+    margin-top: 0.5em;
+    padding: 0.75em 1em;
+    font-size: $type-size-6;
+    white-space: pre-wrap;
+    word-break: break-word;
+    background-color: var(--global-border-color);
+    border-radius: $border-radius;
+  }
+}
