@@ -70,9 +70,9 @@ a {
   color: var(--global-link-color);
 }
 
-/* Apply focus state */
+/* Apply focus state (keyboard navigation only, not mouse clicks) */
 
-a:focus {
+a:focus-visible {
   @extend %tab-focus;
 }
 
