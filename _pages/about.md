@@ -12,7 +12,7 @@ Hello, I am **Jeeho Shin**, a first year MSCS student at Columbia, pursuing ML t
 <br>
 Before Columbia, I finished my Bachelor's degree in Computer Science at KAIST.
 <br>
-My interest lies in multi-agent systems and RAG application, and I enjoy discovering problems around us and solving them through the power of AI.  
+My interest lies in high performance machine learning systems and RAG application, and I enjoy discovering problems around us and solving them.  
 
 <br>
 
