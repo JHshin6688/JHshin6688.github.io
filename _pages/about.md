@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-Hello, I am **Jeeho Shin**, a first year MSCS student at Columbia, pursuing ML track.
+Hello, I am **Jeeho Shin**, a first-year MSCS student at Columbia, pursuing ML track.
 <br>
 Before Columbia, I finished my Bachelor's degree in Computer Science at KAIST.
 <br>
-My interest lies in high performance machine learning systems and RAG application.
+I'm interested in Machine Learning, LLM Post-Training, Recommendation Systems, and RAG systems.
 <br>
 
 News
