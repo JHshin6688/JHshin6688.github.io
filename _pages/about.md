@@ -22,7 +22,7 @@ News
 |------|--------|
 | Oct 8, 2026 | [LionPlanner](https://github.com/JHshin6688/LionPlanner) was selected as a Featured Project from the [Pathfinders Challenge 2026](https://www.stellic.com/pathfinders)! |
 | Aug 26, 2026 | Started my Master program at Columbia! |
-| Apr 3, 2026 | [TESMR](https://dl.acm.org/doi/10.1145/3805712.3809863) got accepted to **SIGIR 2026 Short Paper Trac**! |
+| Apr 3, 2026 | [TESMR](https://dl.acm.org/doi/10.1145/3805712.3809863) got accepted to **SIGIR 2026 Short Paper Track**! |
 | Sep 1, 2025 | Started my internship at NC AI, advised by [Sanghak Lee](https://www.linkedin.com/in/sanghak-lee-817732165/)! |
 | Jan 2, 2025 | Started my internship at KAIST AI, advised by [Dr. Kijung Shin](https://kijungs.github.io/)! |
 | Nov 2, 2024 | [ListenUp](https://devpost.com/software/listenup-2qrg3d) won the **Best AI Project with Databricks Open Source** at [HackTX 2024](https://hacktx-2024.devpost.com/?_gl=1*16rpxx6*_gcl_au*MTM1ODYyMDM5Ny4xNzkyNDM0Njg3*_ga*MjEyMjk0MTA3My4xNzkyNDM0Njg3*_ga_0YHJK3Y10M*czE3OTI0MzQ2ODYkbzEkZzAkdDE3OTI0MzQ2ODYkajYwJGwwJGgw)! |
